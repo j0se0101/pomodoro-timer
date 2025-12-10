@@ -4,6 +4,7 @@ Una aplicación moderna de temporizador Pomodoro con sincronización en tiempo r
 
 
 
+
 ---> Componentes
 <div align="center">
   
