@@ -13,7 +13,7 @@ Una aplicación moderna de temporizador Pomodoro con sincronización en tiempo r
 - Persistencia local y en base de datos (Supabase)
   <div align="center">
   <img width="100%" max-width="800px" alt="image" src="https://github.com/user-attachments/assets/2a49d595-8861-4142-862b-b31817f733e0" />
-  </div>
+    </div>
 - Estadísticas detalladas de sesiones completadas
 - Notificaciones del navegador y sonidos
   <div align="center">
